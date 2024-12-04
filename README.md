@@ -5,4 +5,5 @@ This is a simple calculator app built with react native and expo.The app support
 npx expo start
 
 ### Screenshot
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4dfff172-c7a9-47a3-b6f6-c3c3e284cb77)
+
